@@ -49,7 +49,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/MortezaAghili/cint-robot-cleaner
+git clone 
 ```
 2. Install NPM packages
 ```sh
